@@ -1,6 +1,7 @@
-# vue-todo-app
+# Vue Todo App
+A simple todo app built with Vue.js and Semantic UI
 
-> Vuejs Todo Application
+![Build Status](https://github.com/feyyazakkus/vue-todo-app/blob/master/static/app.gif?raw=true)
 
 ## Build Setup
 
@@ -17,5 +18,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
